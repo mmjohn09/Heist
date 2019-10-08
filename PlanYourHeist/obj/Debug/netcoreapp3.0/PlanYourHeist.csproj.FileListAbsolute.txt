@@ -1,0 +1,11 @@
+/Users/maggie/workspace/csharp-exercises/heist/PlanYourHeist/bin/Debug/netcoreapp3.0/PlanYourHeist
+/Users/maggie/workspace/csharp-exercises/heist/PlanYourHeist/bin/Debug/netcoreapp3.0/PlanYourHeist.deps.json
+/Users/maggie/workspace/csharp-exercises/heist/PlanYourHeist/bin/Debug/netcoreapp3.0/PlanYourHeist.runtimeconfig.json
+/Users/maggie/workspace/csharp-exercises/heist/PlanYourHeist/bin/Debug/netcoreapp3.0/PlanYourHeist.runtimeconfig.dev.json
+/Users/maggie/workspace/csharp-exercises/heist/PlanYourHeist/bin/Debug/netcoreapp3.0/PlanYourHeist.dll
+/Users/maggie/workspace/csharp-exercises/heist/PlanYourHeist/bin/Debug/netcoreapp3.0/PlanYourHeist.pdb
+/Users/maggie/workspace/csharp-exercises/heist/PlanYourHeist/obj/Debug/netcoreapp3.0/PlanYourHeist.csprojAssemblyReference.cache
+/Users/maggie/workspace/csharp-exercises/heist/PlanYourHeist/obj/Debug/netcoreapp3.0/PlanYourHeist.AssemblyInfoInputs.cache
+/Users/maggie/workspace/csharp-exercises/heist/PlanYourHeist/obj/Debug/netcoreapp3.0/PlanYourHeist.AssemblyInfo.cs
+/Users/maggie/workspace/csharp-exercises/heist/PlanYourHeist/obj/Debug/netcoreapp3.0/PlanYourHeist.dll
+/Users/maggie/workspace/csharp-exercises/heist/PlanYourHeist/obj/Debug/netcoreapp3.0/PlanYourHeist.pdb
